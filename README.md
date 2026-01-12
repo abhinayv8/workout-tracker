@@ -96,19 +96,6 @@ No backend, authentication, or network connectivity is required.
 
 ---
 
-## Project Structure
-
-src/
-├── components/        # Reusable UI components
-├── charts/            # Progress and analytics visualizations
-├── data/              # Exercise groups and default templates
-├── hooks/             # LocalStorage and state management hooks
-├── utils/             # PR detection, 1RM calculation, block logic
-├── App.jsx
-└── main.jsx
-
----
-
 ## Design Philosophy
 
 - **Problem-driven engineering** over feature bloat
